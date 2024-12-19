@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MongoDB, SQL databases**
 
-- 👯 I’m looking to collaborate on [AceGrade](https://lnkd.in/eNtQ33VZ)
+- 👯 I’m looking to collaborate on [AceGrade](https://github.com/VIVIDRON/AceGrade-Public)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ronak-sakhala-1b81272b0/details/projects/](https://www.linkedin.com/in/ronak-sakhala-1b81272b0/details/projects/)
 
