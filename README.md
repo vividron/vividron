@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ronak sakhala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronak sakhala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ronak sakhala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronak sakhala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ronak-sakhala-1b81272b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronak-sakhala-1b81272b0/" height="30" width="40" /></a>
 <a href="https://instagram.com/ronak_sakhala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronak_sakhala" height="30" width="40" /></a>
-<a href="https://discord.gg/VIVIDRON#9007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VIVIDRON#9007" height="30" width="40" /></a>
+<a href="https://discord.gg/EqNjVE9UHu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EqNjVE9UHu" height="30" width="40" /></a>
+<a href="https://x.com/IVividron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IVividron" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
