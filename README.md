@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronak Sakhala</h1>
 <h3 align="center">A passionate Mobile app developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8b3ba4e6d6be41b54a956726f5f269026baae44a40c3757bf11ef857f19ce81e/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d446c6a6332526e656e56714e7a5230597a5979625763326358427865574a6c6447396d59336873616a4a776433526e61326c7662695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f77726163797171487348363630497833696b2f67697068792e676966">
+<img align="right" alt="Coding" width="400" src="[https://in.pinterest.com/pin/27654985206734581/](https://batterydown.vn/wp-content/uploads/2022/05/hinh-lofi-tam-trang-tuyet-dep.gif)">
 
 - 🌱 I’m currently learning **MongoDB, SQL databases**
 
