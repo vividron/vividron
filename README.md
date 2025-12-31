@@ -3,9 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ViajFzYTBhcnJqMHF3YnVjNGlwajlveWQ2OXQ3emVyazFmdHZxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on [AceGrade](https://github.com/VIVIDRON/AceGrade-Public)
+- 🌱 I’m currently learning **Relational Databases**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ronak-sakhala-1b81272b0/details/projects/](https://www.linkedin.com/in/ronak-sakhala-1b81272b0/details/projects/)
 
